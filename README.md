@@ -31,15 +31,6 @@ I love learning new technologies and improving my skills through projects.
 
 ---
 
-## 📂 Project Structure
-
-```
-portfolio/
-│── index.html
-│── style.css
-│── images/
-│     └── photo.jpg
-```
 
 ---
 
