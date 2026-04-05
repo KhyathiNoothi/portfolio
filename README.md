@@ -6,11 +6,14 @@ This site showcases my projects, skills, and ways to connect with me.
 ---
 
 ## 👩‍💻 About Me
-
 Hi, I'm **Khyathi Noothi** 👋
 I am a passionate developer who enjoys building clean and user-friendly web applications.
 I love learning new technologies and improving my skills through projects.
-
+I have a strong interest in web development and enjoy turning ideas into real-world applications.
+I focus on writing simple, efficient, and well-structured code.
+I am always eager to learn, explore new tools, and enhance my problem-solving abilities.
+My goal is to grow as a developer and contribute to meaningful and innovative projects.
+Outside of coding, I enjoy exploring new concepts in technology and continuously challenging myself to improve.
 ---
 
 ## 🚀 Features
@@ -23,7 +26,7 @@ I love learning new technologies and improving my skills through projects.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML5
 * CSS3
@@ -34,32 +37,26 @@ I love learning new technologies and improving my skills through projects.
 
 ---
 
-## 🌍 Live Demo
+##  Live Demo
 
 🔗 https://khyathinoothi.github.io/portfolio/
 
 ---
 
-## 📸 Preview
-
-*(You can add a screenshot here later)*
 
 ---
 
-## 📬 Contact Me
+##  Contact Me
 
 * 📧 Email: [noothikhyathi@gmail.com](mailto:noothikhyathi@gmail.com)
 * 💻 GitHub: https://github.com/KhyathiNoothi
 
 ---
 
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub! 😊
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Add more projects
 * Improve animations
