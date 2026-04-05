@@ -18,7 +18,7 @@ I am a quick learner, highly motivated, and always eager to explore new tools an
 ##  About My Portfolio
 
 This portfolio represents my skills, projects, and progress as a developer. It is designed with a clean and simple interface to provide a smooth user experience.
-
+the web
 The website includes sections such as About, Projects, and Contact, making it easy to navigate and understand my work. It highlights my projects and demonstrates my understanding of frontend development.
 ---
 ##  Technologies Used
