@@ -1,15 +1,15 @@
-# 🌐 Khyathi Noothi | Portfolio
+# Khyathi Noothi | Portfolio
 
 Welcome to my personal portfolio website! ✨
 This site showcases my projects, skills, and ways to connect with me.
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 ---
 
-## 🚀 Features
+##  Features
 
 ✔️ Responsive design (works on mobile & desktop)
 ✔️ Clean and modern UI
@@ -28,7 +28,7 @@ This site showcases my projects, skills, and ways to connect with me.
 ---
 
 
----
+
 
 ##  Live Demo
 
@@ -37,7 +37,6 @@ This site showcases my projects, skills, and ways to connect with me.
 ---
 
 
----
 
 ##  Contact Me
 
@@ -47,7 +46,6 @@ This site showcases my projects, skills, and ways to connect with me.
 ---
 
 
----
 
 ##  Future Improvements
 
