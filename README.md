@@ -12,14 +12,12 @@ I am a passionate Computer Science student with a strong interest in web develop
 I love learning new technologies and continuously improving my skills through hands-on projects. I focus on writing simple, efficient, and well-structured code.
 
 I am a quick learner, highly motivated, and always eager to explore new tools and concepts. My goal is to grow as a developer and contribute to meaningful and impactful projects.
-
 ---
-
-##  About My Portfolio
+**About My Portfolio:**
 
 This portfolio represents my skills, projects, and progress as a developer. It is designed with a clean and simple interface to provide a smooth user experience.
-the web
-The website includes sections such as About, Projects, and Contact, making it easy to navigate and understand my work. It highlights my projects and demonstrates my understanding of frontend development.
+
+The website includes sections such as About, Projects, and Contact, making it easy to navigate and understand my work.
 ---
 ##  Technologies Used
 * HTML5
