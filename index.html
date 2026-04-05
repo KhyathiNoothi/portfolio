@@ -313,15 +313,46 @@ margin-bottom:15px;
 .contact-form button:active {
   transform: scale(0.98);
 }
+* {
+  box-sizing: border-box;
+}
 @media (max-width: 768px) {
   .home {
+    display: flex;
     flex-direction: column;
     text-align: center;
+    align-items: center;
   }
   .home-img {
     margin-top: 20px;
   }  
-  .skills-container {
+  .skills-section {
+    display: flex;
+    flex-direction: column;   
+    align-items: center;
+    gap: 30px;
+  }
+  .skills-box {
+    width: 90%;
+    padding: 20px;
+    text-align: center;
+  }
+  .skills-list {
+    display: flex;
+    flex-wrap: wrap;      
+    justify-content: center;
+    gap: 10px;
+  }
+  .skills-list span {
+    padding: 8px 15px;
+    font-size: 14px;
+    border-radius: 20px;
+  }
+  .education-card {
+    width: 90%;
+    text-align: center;
+  }
+  .projects-container {
     flex-direction: column;
     align-items: center;
   }
@@ -330,13 +361,13 @@ margin-bottom:15px;
     margin-bottom: 20px;
   }
   .contact-container {
+    display: flex;
     flex-direction: column;   
     align-items: center;
     gap: 30px;
   }
   .contact-info {
     width: 100%;
-    border-right: none;       
     padding-right: 0;
     text-align: center;
   }
@@ -349,6 +380,7 @@ margin-bottom:15px;
   .contact-form button {
     width: 90%;
   }
+
 }
 .footer{
 background:#2f4f3f;   
